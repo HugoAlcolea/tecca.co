@@ -4,7 +4,7 @@ Proyecto replicar una web con web responisve
 
 0. Crea el teu grup de dues persones
   - Hugo Alcolea
-  - David
+  - David Picazo
 
 1. Esbós o wireframe
    - Cerqueu un disseny que us agradi d'algun web que contingui elements bàsics com barra de navegació, imatges, logos i un formulari (indicar la web de referència en l'entrega).
