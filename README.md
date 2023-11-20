@@ -1,4 +1,4 @@
-# tecca.co
+# Explicacion paso a paso de como lo hemos hecho
 Proyecto replicar una web con web responisve
 
 
